@@ -35,6 +35,9 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkomb&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## 💼 Experience
