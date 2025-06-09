@@ -37,57 +37,10 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkomb&layout=compact&theme=tokyonight)
 
-
----
-
-## 💼 Experience
-
-### Frontend Developer – Personal Project *(Remote, UK)*
-
-**Mar 2025 – Present**
-
-* Developed **PriceHunt**: a real-time grocery price comparison app using React, Tailwind CSS, and Vite.
-* Integrated Firebase Auth, Firestore DB, multi-step onboarding with React Hook Form + Yup.
-* Used Redux Toolkit for global state, React Router v7 for SPA navigation.
-* Animated with Framer Motion, built carousels with Swiper.js.
-* Deployed using GitHub Pages.
-
-### Frontend Developer – Freelance *(Kharkiv, Ukraine)*
-
-**May 2024 – Jul 2024**
-
-* Developed **Smart Quiz App** with real-time feedback and animated transitions.
-* Delivered responsive UI/UX for desktop and mobile.
-* Implemented dynamic score tracking and engaging navigation.
-
-### Frontend Developer – Ruzym OU *(Estonia)*
-
-**May 2023 – Nov 2023**
-
-* Built a Trello-style task board with Vue + Pinia, supporting drag-and-drop.
-* Focused on offline persistence and responsive design.
-* Improved UX and retention through optimized state management.
-
----
-
-## 🎓 Education
-
-**Bachelor's in Computer Science**
-O.M. Beketov National University of Urban Economy, Kharkiv, Ukraine
-*Sept 2018 – Sept 2022*
-
----
-
-## 🌍 Languages
-
-* **Russian** – Proficient (C2)
-* **English** – Upper Intermediate (B2)
-
 ---
 
 ## 📫 Contact Me
 
 * **📧 Email**: [prkomb@gmail.com](mailto:prkomb@gmail.com)
-* **📱 Phone**: +44 7572 991021
 * **🔗 LinkedIn**: [khahani-mamedov](https://www.linkedin.com/in/khahani-mamedov/)
-* **📍 Location**: Birmingham, UK
+* **📍 Location**: 🇬🇧 United Kingdom
