@@ -41,5 +41,5 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 ## 📫 Contact Me
 
 * **📧 Email**: [prkomb@gmail.com](mailto:prkomb@gmail.com)
-* **🔗 LinkedIn**: [khahani-mamedov](https://www.linkedin.com/in/khahani-mamedov/)
+* **🔗 LinkedIn**: [linkedin.com/in/khahani-mamedov](https://www.linkedin.com/in/khahani-mamedov/)
 * **📍 Location**: 🇬🇧 United Kingdom
