@@ -25,11 +25,11 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
     <!-- Desktop ≥ 641 px: 15 icons per line -->
     <source
       media="(min-width: 641px)"
-      srcset="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
+      srcset="https://skillicons.dev/icons?i=react,notion,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
     />
     <!-- Fallback if media queries aren’t supported -->
     <img
-      src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
+      src="https://skillicons.dev/icons?i=react,notion,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
       alt="Tech stack icons"
     />
   </picture>
