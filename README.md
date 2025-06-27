@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Khahani%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=JS%20Dev&descAlignY=75&descSize=25)
 
 
-### 👋 Hi there
+## 👋 Hi there
 
 I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JS engineer** who loves turning ideas into products.  
 - ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
@@ -12,7 +12,7 @@ I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JS e
 
 ---
 
-### 🔧 Tech I Use Daily
+## 🔧 Tech I Use Daily
 
 | Front-end | Back-end & DevOps | Tooling |
 |-----------|------------------|---------|
@@ -22,7 +22,7 @@ I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JS e
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prkomb&show_icons=true&theme=tokyonight&hide_border=true" alt="Khahani's GitHub stats" />
@@ -31,7 +31,7 @@ I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JS e
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prkomb)
@@ -39,10 +39,6 @@ I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JS e
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://khahanimamedov.com)
 [![Email](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
 
----
-
-<!-- Commit graph (optional eye-candy) -->
-![Graph](https://activity-graph.herokuapp.com/graph?username=prkomb&theme=tokyo-night&hide_border=true)
 
 # Hi there 👋 I'm Khahani Mamedov
 
