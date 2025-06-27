@@ -34,10 +34,6 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkomb&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contacts
 
 * **📧 Email**: [prkomb@gmail.com](mailto:prkomb@gmail.com)
@@ -45,3 +41,6 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 * **🔗 Github**: [github.com/prkomb](https://github.com/prkomb)
 * **🔗 Stackoverflow**: [stackoverflow.com/users/30908165/prkomb](https://stackoverflow.com/users/30908165/prkomb)
 * **📍 Location**: 🇬🇧 London, United Kingdom
+
+## 📈 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api?username=prkomb&layout=compact&theme=tokyonight)
