@@ -13,10 +13,10 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
 <p align="left">
   <!-- Desktop (≥ 641 px): 15 per line • Mobile (≤ 640 px): 8 per line -->
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,ts,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,redux&perline=15"
+    src="https://skillicons.dev/icons?i=js,react,nextjs,redux,astro,tailwind,ts,html,css,scss,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,cloudflare&perline=15"
     srcset="
-      https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,ts,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,redux&perline=8  640w,
-      https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,ts,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,redux&perline=15 900w
+      https://skillicons.dev/icons?i=js,react,nextjs,redux,astro,tailwind,ts,html,css,scss,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,cloudflare&perline=8  640w,
+      https://skillicons.dev/icons?i=js,react,nextjs,redux,astro,tailwind,ts,html,css,scss,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,cloudflare&perline=15 900w
     "
     sizes="(max-width: 640px) 100vw, 900px"
     alt="Tech stack icons"
@@ -36,7 +36,7 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prkomb)
