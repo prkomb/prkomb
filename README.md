@@ -6,7 +6,7 @@
 * 🛣️ Leadership practice
 * ✨ Solve practical, real-world problems
 
-## Social Account
+## 😃 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/prkomb)
