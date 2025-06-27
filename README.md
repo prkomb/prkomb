@@ -12,6 +12,20 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a **Full-Stack JS Engineer** who l
 
 ---
 
+## 🔧 Tech I Use Daily  
+
+<p>
+  <!-- 8 icons per line → scales nicely on mobile -->
+  <img
+    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,express,prisma,trpc,firebase,git,githubactions,docker,vite,jest,figma&perline=8"
+    alt="Tech stack icons"
+  />
+</p>
+
+> *If a tool solves a real-world problem faster, I’m probably testing it right now.*
+> 
+---
+
 ## 🔧 Tech I Use Daily
 
 | Front-end | Back-end & DevOps | Tooling |
