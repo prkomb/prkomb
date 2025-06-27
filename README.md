@@ -1,3 +1,51 @@
+<!-- Banner / Hero -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&width=435&lines=Hey,+I'm+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning+🚀" alt="Typing SVG" />
+</p>
+
+### 👋 Hi there
+
+I’m **Khahani (pronounced _ha-HA-nee_)**, a **Full-Stack JavaScript engineer** who loves turning ideas into products.  
+- ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
+- 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
+- 🌱 Currently diving deeper into **tRPC + React Server Components**  
+- 🧭 Side quest: mentoring junior devs and leveling-up my leadership skills  
+- ✨ Motto: *“Ship. Learn. Refine.”*
+
+---
+
+### 🔧 Tech I Use Daily
+
+| Front-end | Back-end & DevOps | Tooling |
+|-----------|------------------|---------|
+| ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-E10098?logo=framer&logoColor=white) | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma) ![tRPC](https://img.shields.io/badge/-tRPC-2596be?logo=trpc) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?logo=githubactions) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) |
+
+> *If a tool solves a real-world problem faster, I’m probably testing it right now.*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prkomb&show_icons=true&theme=tokyonight&hide_border=true" alt="Khahani's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkomb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prkomb)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://khahanimamedov.com)
+[![Email](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
+
+---
+
+<!-- Commit graph (optional eye-candy) -->
+![Graph](https://activity-graph.herokuapp.com/graph?username=prkomb&theme=tokyo-night&hide_border=true)
+
 # Hi there 👋 I'm Khahani Mamedov
 
 * 👨🏻‍💻 Full-Stack JS Dev
