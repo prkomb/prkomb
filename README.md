@@ -1,6 +1,6 @@
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=252525&center=true&vCenter=true&width=435&lines=Hey,+I%27m+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=252525&center=true&vCenter=true&width=800&lines=Hey,+I%27m+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning" alt="Typing SVG" />
 </p>
 
 ### 👋 Hi there
