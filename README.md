@@ -36,6 +36,32 @@ If a tool solves a real-world problem faster, I'm probably testing it right now.
 
 ## 🌐 Let's Connect
 
+<!-- Badges with target="_blank" for external links -->
+<p align="left">
+
+  <!-- Gmail: “mailto:” usually launches your mail app, so target isn’t needed -->
+  <a href="mailto:prkomb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://khahanimamedov.com"  target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/30908165/prkomb" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/khahani-mamedov/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/prkomb" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</p>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=khahanimamedov.com&logoColor=white)](https://khahanimamedov.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
