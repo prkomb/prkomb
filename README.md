@@ -1,7 +1,11 @@
-# 👋 Hi, I'm Khahani Mamedov
+# Hi there 👋 I'm Khahani Mamedov
+---
 
-I'm a **full stack-oriented frontend developer** passionate about building responsive, scalable web applications using modern technologies. I focus on clean code, smooth UI/UX, and efficient project delivery.
-
+* 👨🏻‍💻 Full-Stack JS Dev
+* 🧠 Over 2 years of experience with various positions and tech stacks
+* 🤔 Always learning and experimenting
+* 🛣️ Leadership practice
+* ✨ Solve practical, real-world problems
 
 ### Find me here
 
