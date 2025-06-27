@@ -1,16 +1,14 @@
-<!-- Banner / Hero -->
-<p align="center">
-  <img style="border-radius: 10px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=252525&center=true&vCenter=true&width=1012&lines=Hey,+I%27m+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning" alt="Typing SVG" />
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Khahani%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=JS%20Dev&descAlignY=75&descSize=25)
+
 
 ### 👋 Hi there
 
-I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JavaScript engineer** who loves turning ideas into products.  
+I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JS engineer** who loves turning ideas into products.  
 - ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
-- 🌱 Currently diving deeper into **tRPC + React Server Components**  
-- 🧭 Side quest: mentoring junior devs and leveling-up my leadership skills  
-- ✨ Motto: *“Ship. Learn. Refine.”*
+- 🌱 Currently diving deeper into **AI Coding, tRPC**  
+- 🧭 Side quest: leveling-up my leadership skills
+- ✨ Mottivation: *“Ship. Learn. Refine.”*
 
 ---
 
