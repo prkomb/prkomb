@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Khahani Mamedov
----
 
 * 👨🏻‍💻 Full-Stack JS Dev
 * 🧠 Over 2 years of experience with various positions and tech stacks
