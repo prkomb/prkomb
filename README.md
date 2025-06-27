@@ -49,4 +49,4 @@
 ## 📫 Contacts
 
 * **📧 Email:** [prkomb@gmail.com](mailto:prkomb@gmail.com)
-* **🔗 Blog:** [khahanimamedov.com](mailto:khahanimamedov.com)
+* **🔗 Blog:** [khahanimamedov.com](https://khahanimamedov.com)
