@@ -42,10 +42,11 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 
+## 📈 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=prkomb&layout=compact&theme=tokyonight)
+
 ## 📫 Contacts
 
 * **📧 Email:** [prkomb@gmail.com](mailto:prkomb@gmail.com)
 * **🔗 Blog:** [khahanimamedov.com](mailto:khahanimamedov.com)
-
-## 📈 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api?username=prkomb&layout=compact&theme=tokyonight)
