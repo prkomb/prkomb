@@ -36,6 +36,17 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 
 ## 📫 Contacts
 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/prkomb)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
+
+
+https://img.shields.io/badge/-LinkedIn-blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khahani-mamedov/
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+
 * **📧 Email**: [prkomb@gmail.com](mailto:prkomb@gmail.com)
 * **🔗 LinkedIn**: [linkedin.com/in/khahani-mamedov](https://www.linkedin.com/in/khahani-mamedov/)
 * **🔗 Github**: [github.com/prkomb](https://github.com/prkomb)
