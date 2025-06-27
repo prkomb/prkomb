@@ -38,8 +38,10 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 
 ---
 
-## 📫 Contact Me
+## 📫 Contacts
 
 * **📧 Email**: [prkomb@gmail.com](mailto:prkomb@gmail.com)
 * **🔗 LinkedIn**: [linkedin.com/in/khahani-mamedov](https://www.linkedin.com/in/khahani-mamedov/)
-* **📍 Location**: 🇬🇧 United Kingdom
+* **🔗 Github**: [github.com/prkomb](https://github.com/prkomb)
+* **🔗 Stackoverflow**: [stackoverflow.com/users/30908165/prkomb](https://stackoverflow.com/users/30908165/prkomb)
+* **📍 Location**: 🇬🇧 London, United Kingdom
