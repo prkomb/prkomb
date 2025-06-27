@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
-  <img src="[https://img.shields.io/badge/Express-000000?logo=express&logoColor=white](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)"/>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white"/>
   
 
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
