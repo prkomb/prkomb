@@ -9,8 +9,6 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/prkomb)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
 
----
-
 ## 🚀 Technologies & Tools
 
 <p align="left">
@@ -44,7 +42,7 @@ I'm a **full stack-oriented frontend developer** passionate about building respo
 ## 📫 Contacts
 
 * **📧 Email:** [prkomb@gmail.com](mailto:prkomb@gmail.com)
-* **📞 Website:** [khahanimamedov.com](mailto:khahanimamedov.com)
+* **🔗 Blog:** [khahanimamedov.com](mailto:khahanimamedov.com)
 
 ## 📈 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=prkomb&layout=compact&theme=tokyonight)
