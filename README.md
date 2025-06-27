@@ -25,7 +25,7 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
 
 > *If a tool solves a real-world problem faster, I’m probably testing it right now.*
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -34,21 +34,12 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkomb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+
 
 ## 🌐 Let's Connect
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prkomb)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://khahanimamedov.com)
-[![Email](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
-
-
-
-------
-
-## 📫 Contacts
-
-* **📧 Email:** [prkomb@gmail.com](mailto:prkomb@gmail.com)
-* **🔗 Blog:** [khahanimamedov.com](https://khahanimamedov.com)
