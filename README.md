@@ -18,10 +18,7 @@ If a tool solves a real-world problem faster, I'm probably testing it right now.
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prkomb&show_icons=true&theme=tokyonight&hide_border=true" alt="Khahani's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkomb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=prkomb&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🌐 Let's Connect
 
