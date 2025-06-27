@@ -1,6 +1,6 @@
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&width=435&lines=Hey,+I'm+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=25252&center=true&width=435&lines=Hey,+I'm+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning+🚀" alt="Typing SVG" />
 </p>
 
 ### 👋 Hi there
