@@ -3,7 +3,7 @@
 
 ## 👋 Hi there
 
-I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a **Full-Stack JS Engineer** who loves turning ideas into products.  
+I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves turning ideas into products. I'm intersted in development, js and building web products. I work on random projects in my free time. 
 - ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
 - 🌱 Currently diving deeper into **AI Coding & Automatisation, tRPC**  
@@ -17,7 +17,7 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a **Full-Stack JS Engineer** who l
 <p>
   <!-- 8 icons per line → scales nicely on mobile -->
   <img
-    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,express,prisma,trpc,firebase,git,githubactions,docker,vite,jest,figma&perline=8"
+    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,express,prisma,trpc,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=8"
     alt="Tech stack icons"
   />
 </p>
