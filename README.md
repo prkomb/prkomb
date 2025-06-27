@@ -3,7 +3,7 @@
 
 ## 👋 Hi there
 
-I’m **Khahani (pronounced _ha-QA-nee_ or /χɑˈɡɑni/ in EPA)**. I'm a **Full-Stack JS Engineer** who loves turning ideas into products.  
+I’m **Khahani (pronounced _ha-QA-nee_)**. I'm a **Full-Stack JS Engineer** who loves turning ideas into products.  
 - ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
 - 🌱 Currently diving deeper into **AI Coding, tRPC**  
