@@ -34,8 +34,6 @@ If a tool solves a real-world problem faster, I'm probably testing it right now.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkomb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
 ## 🌐 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prkomb@gmail.com)
