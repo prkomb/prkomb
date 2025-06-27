@@ -10,34 +10,19 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
 - 🧭 Side quest: leveling-up my leadership skills
 - ✨ Mottivation: *“Ship. Learn. Refine.”*
 
----
-
-## 🔧 Tech I Use Daily  
-
-
 <p align="left">
-  <picture>
-    <!-- Mobile ≤ 640 px: 8 icons per line -->
-    <source
-      media="(max-width: 640px)"
-      srcset="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=8"
-    />
-    <!-- Desktop ≥ 641 px: 15 icons per line -->
-    <source
-      media="(min-width: 641px)"
-      srcset="https://skillicons.dev/icons?i=react,notion,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
-    />
-    <!-- Fallback if media queries aren’t supported -->
-    <img
-      src="https://skillicons.dev/icons?i=react,notion,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
-      alt="Tech stack icons"
-    />
-  </picture>
+  <!-- Default (desktop ≥ 641 px) : 15 icons per line            -->
+  <!-- Mobile (≤ 640 px)       :  8 icons per line via srcset    -->
+  <img
+    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
+    srcset="
+      https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=8  640w,
+      https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15 900w
+    "
+    sizes="(max-width: 640px) 100vw, 900px"
+    alt="Tech stack icons"
+  />
 </p>
-
-
-> *If a tool solves a real-world problem faster, I’m probably testing it right now.*
-> 
 
 ---
 
