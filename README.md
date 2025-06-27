@@ -14,13 +14,27 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
 
 ## 🔧 Tech I Use Daily  
 
-<p>
-  <!-- 8 icons per line → scales nicely on mobile -->
-  <img
-    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
-    alt="Tech stack icons"
-  />
+
+<p align="center">
+  <picture>
+    <!-- Mobile ≤ 640 px: 8 icons per line -->
+    <source
+      media="(max-width: 640px)"
+      srcset="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=8"
+    />
+    <!-- Desktop ≥ 641 px: 15 icons per line -->
+    <source
+      media="(min-width: 641px)"
+      srcset="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
+    />
+    <!-- Fallback if media queries aren’t supported -->
+    <img
+      src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=15"
+      alt="Tech stack icons"
+    />
+  </picture>
 </p>
+
 
 > *If a tool solves a real-world problem faster, I’m probably testing it right now.*
 > 
