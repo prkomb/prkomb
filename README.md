@@ -6,12 +6,6 @@
 * 🛣️ Leadership practice
 * ✨ Solve practical, real-world problems
 
-## 😃 Social Media
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/prkomb)
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
-
 ## 🚀 Technologies & Tools
 
 <p align="left">
@@ -44,6 +38,12 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
+
+## 😃 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khahani-mamedov/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/prkomb)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/30908165/prkomb)
 
 ## 📈 Stats
 
