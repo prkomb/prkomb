@@ -1,11 +1,11 @@
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=252525&center=true&vCenter=true&width=800&lines=Hey,+I%27m+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning" alt="Typing SVG" />
+  <img style="border-radius: 10px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=252525&center=true&vCenter=true&width=1012&lines=Hey,+I%27m+Khahani+Mamedov!;Full-Stack+JavaScript+Engineer;Always+learning" alt="Typing SVG" />
 </p>
 
 ### 👋 Hi there
 
-I’m **Khahani (pronounced _ha-HA-nee_)**, a **Full-Stack JavaScript engineer** who loves turning ideas into products.  
+I’m **Khahani (pronounced _ha-QA-nee_ (/χɑˈɡɑni/))**, a **Full-Stack JavaScript engineer** who loves turning ideas into products.  
 - ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
 - 🌱 Currently diving deeper into **tRPC + React Server Components**  
