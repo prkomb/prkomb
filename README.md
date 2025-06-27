@@ -17,7 +17,7 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a fullstack js developer who loves
 <p>
   <!-- 8 icons per line → scales nicely on mobile -->
   <img
-    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,express,prisma,trpc,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=12"
+    src="https://skillicons.dev/icons?i=react,ts,astro,nextjs,tailwind,nodejs,fastify,express,prisma,firebase,git,githubactions,docker,vite,jest,figma,gitlab&perline=16"
     alt="Tech stack icons"
   />
 </p>
