@@ -4,7 +4,7 @@
 ## 👋 Hi there
 
 I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a frontend js developer who loves turning ideas into products. I'm intersted in development, js and building web products. I work on random projects in my free time.
-- ⚒️ **2+ years** shipping production apps (React, Node, TypeScript)  
+- ⚒️ **3+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
 - 🌱 Currently diving deeper into **AI Coding & Automatisation, tRPC**  
 - 🧭 Side quest: leveling-up my leadership skills
