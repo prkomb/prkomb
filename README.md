@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=Khahani%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=JS%20Dev&descAlignY=75&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=Khahani%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=JavaScript%20Engineer&descAlignY=75&descSize=25)
 
 
 ## 👋 Hi there
