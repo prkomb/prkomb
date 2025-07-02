@@ -7,8 +7,8 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a Frontend JavaScript Engineer who
 - ⚒️ **3+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
 - 🌱 Currently diving deeper into **AI Coding & Automatisation, tRPC**  
-- 🧭 Side quest: leveling-up my leadership skills
-- ✨ Mottivation: *“Ship. Learn. Refine.”*
+- 🧭 Side quest: levelling-up my leadership skills
+- ✨ Motivation: *“Ship. Learn. Refine.”*
 
 ## 🛠️ Tech Stack
 
