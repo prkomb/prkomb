@@ -3,7 +3,7 @@
 
 ## 👋 Hi there
 
-I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a Frontend JavaScript Engineer who loves turning ideas into products. I'm intersted in development, js and building web products. I work on random projects in my free time.
+I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a Frontend JavaScript Engineer who loves turning ideas into products. I'm interested in development, JS and building web products. I work on random projects in my free time.
 - ⚒️ **3+ years** shipping production apps (React, Node, TypeScript)  
 - 🛠  I enjoy **rapid prototyping**, **clean architecture** & **UI animations**  
 - 🌱 Currently diving deeper into **AI Coding & Automatisation, tRPC**  
