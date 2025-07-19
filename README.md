@@ -14,7 +14,7 @@ I'm **Khahani (pronounced _ha-QA-nee_)**. I'm a Frontend JavaScript Engineer who
 
 If a tool solves a real-world problem faster, I'm probably testing it right now.
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,nextjs,redux,astro,tailwind,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,cloudflare,linux,netlify,notion,npm,postman,sentry,vscode,yarn,postgres,reactquery,cypress&perline=15)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,nextjs,redux,astro,tailwind,nodejs,express,prisma,graphql,supabase,docker,vite,vitest,jest,git,githubactions,vercel,figma,materialui,cloudflare,linux,netlify,notion,npm,postman,sentry,vscode,yarn,postgres,cypress&perline=15)
 
 ## 📈 GitHub Stats
 
