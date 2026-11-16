@@ -1,12 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=Khagani%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=75&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=Khagani%20Mamedov&section=header&reversal=true&textBg=false&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20AI%2FLLM&descAlignY=75&descSize=20)
 
 
 ## 👋 Hi there
 
-I'm **Khagani (pronounced _ha-QA-nee_)**. I'm a Full-Stack Engineer — strongest on the frontend — who loves turning ideas into products. I build web products in React, TypeScript and Node.js, and I work on my own projects in my free time.
+I'm **Khagani (pronounced _ha-QA-nee_)**. I'm a Full-Stack Engineer who loves turning ideas into products. I build web products and AI features in React, TypeScript and Node.js.
 - ⚒️ **4 years** shipping production apps (React, TypeScript, Node.js) for e-commerce and fintech
-- 🤖 Shipped **LLM & RAG** features into my open-source product [Olue](https://github.com/prkomb/olue) — streaming chat over crawled data, Zod-validated summaries; AI-assisted development daily (Claude Code, Cursor)
-- 🔀 Merged upstream: **pino**, **mercurius**, **strapi-plugin-cache**, **iovalkey**
+- 🤖 Build **AI features end to end** in my open-source product [Olue](https://github.com/prkomb/olue): RAG chat over MongoDB Atlas Vector Search, embeddings, streamed LLM responses with cited sources, Zod-validated structured outputs and one model per task through OpenRouter
+- 🔌 Added **Garmin Connect** to [OpenConnector](https://github.com/oomol-lab/open-connector/pull/906), the open-source gateway between AI agents and 1,700+ apps: 12 agent tools over MCP, merged and [live on oomol.com](https://oomol.com/integrations/garmin_connect/)
+- 🧠 AI-assisted development every day (Claude Code, Cursor)
+- 🔀 Merged upstream: **OpenConnector**, **pino**, **mercurius**, **strapi-plugin-cache**, **iovalkey**
 - 🛠 I enjoy **rapid prototyping**, **clean architecture** & **UI animations**
 - ✨ Motivation: *“Ship. Learn. Refine.”*
 
@@ -14,7 +16,7 @@ I'm **Khagani (pronounced _ha-QA-nee_)**. I'm a Full-Stack Engineer — stronges
 
 If a tool solves a real-world problem faster, I'm probably testing it right now.
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,nextjs,redux,tailwind,vue,nodejs,express,graphql,mongodb,postgres,prisma,firebase,supabase,redis,docker,gcp,vite,vitest,jest,git,githubactions,gitlab,vercel,pnpm,materialui,figma,notion,sentry&perline=11)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,nextjs,redux,tailwind,vue,nodejs,express,graphql,mongodb,postgres,prisma,firebase,supabase,redis,docker,gcp,cloudflare,vite,vitest,jest,git,githubactions,gitlab,vercel,pnpm,materialui,figma,notion,sentry&perline=11)
 
 ## 📈 GitHub Stats
 
